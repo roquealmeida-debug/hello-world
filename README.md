@@ -1,2 +1,4 @@
-# hello world
- first versioned repository
+# Olá, Mundo!
+ Primeiro repositório versionado
+
+ Repositório criado no dia 27/03/2021
